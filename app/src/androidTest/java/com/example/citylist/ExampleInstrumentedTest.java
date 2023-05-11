@@ -15,6 +15,11 @@ import static org.junit.Assert.*;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
+
+/**
+ * Espresso
+ * Easy Because no need of solo class
+ */
 @RunWith(AndroidJUnit4.class)
 public class ExampleInstrumentedTest {
     @Test
